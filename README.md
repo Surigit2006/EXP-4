@@ -82,16 +82,9 @@ CIRCUIT DIAGRAMS
 
 
 
-# WAVEFORM:
-# half wave rectifier:
 
-<img width="1099" height="634" alt="image" src="https://github.com/user-attachments/assets/8ba6e592-4b22-4cb9-bb53-389cf5839c4f" />
 
-# Full wave rectifier:
-
-<img width="1022" height="721" alt="image" src="https://github.com/user-attachments/assets/1dc25e32-9fd8-4100-b849-e4c5c6788c8c" />
-
-# Output:
+# Tabulation:
 
 # HAlf wave rectifier with and without filter:
 
@@ -105,34 +98,46 @@ CIRCUIT DIAGRAMS
 <img width="621" height="250" alt="image" src="https://github.com/user-attachments/assets/63f95ae8-9131-4176-9029-a5012b4ca6e3" />
 
 
+
+
+# WAVEFORM:
+# half wave rectifier:
+
+<img width="1099" height="634" alt="image" src="https://github.com/user-attachments/assets/8ba6e592-4b22-4cb9-bb53-389cf5839c4f" />
+
+# Full wave rectifier:
+
+<img width="1022" height="721" alt="image" src="https://github.com/user-attachments/assets/1dc25e32-9fd8-4100-b849-e4c5c6788c8c" />
+
+
+
+# Output:
+
 # Halfwave rectifier without filter:
 
-<img width="1325" height="823" alt="image" src="https://github.com/user-attachments/assets/0f858a13-800e-4142-9eb1-3f85b4dd6f3a" />
 
-
-
-# Halfwave rectifier with filter:
-
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e377602e-5c2f-4cc4-8487-348477a34e6f" />
+<img width="1568" height="775" alt="image" src="https://github.com/user-attachments/assets/54eeeab0-3233-4789-b18f-de2c03f53108" />
 
 
 
 
-# Full wave rectifier without filter:
 
-<img width="1481" height="927" alt="image" src="https://github.com/user-attachments/assets/e6ae0979-6814-44c8-927f-750948d8d15c" />
+# Half wave rectifier with filter:
 
+<img width="1918" height="1132" alt="image" src="https://github.com/user-attachments/assets/e3fef8cd-ae22-49f6-a551-6dcc26741979" />
+
+# full wave rectifier without filter:
+
+<img width="1918" height="1123" alt="image" src="https://github.com/user-attachments/assets/44c07989-48e7-40dc-914f-88227722865c" />
 
 
 
 # full wave rectifier with filter:
 
+<img width="1737" height="933" alt="image" src="https://github.com/user-attachments/assets/cf6bf9e5-ffa6-42d0-b3b1-c71768295cc6" />
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b73b274e-3ef2-4d8a-849a-021b36b7a928" />
 
 
-WAVEFORM:
 
 
 RESULT:
