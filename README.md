@@ -36,16 +36,74 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+# Half wave rectifier without filter:
+
+<img width="690" height="305" alt="image" src="https://github.com/user-attachments/assets/e47ac5fd-165c-4286-9da2-81814e7800c2" />
 
 
 
-Bridge rectifier with filter:
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+# Half wave rectifier with filter:
+
+
+<img width="690" height="305" alt="image" src="https://github.com/user-attachments/assets/4fa4a5ba-7756-4786-9ac2-1716d4f6027d" />
+
+# Full wave rectifier whitout filter:
+
+<img width="614" height="248" alt="image" src="https://github.com/user-attachments/assets/63af48e9-5f7c-4e5b-af4e-abdafb2a78e9" />
+
+
+
+
+# Full wave rectifier with filter:
+
+<img width="652" height="277" alt="image" src="https://github.com/user-attachments/assets/54c6039a-8289-4ea3-9d65-dc3ac5fa6248" />
+
+
+# Calculation:
+# half wave rectifier without filter:
+
+<img width="1041" height="453" alt="image" src="https://github.com/user-attachments/assets/9f55c0cd-9086-4e41-a172-babdb9f74122" />
+
+
+# half wave rectifier with filter
+
+<img width="1050" height="492" alt="image" src="https://github.com/user-attachments/assets/205298ab-65ef-4a98-bb32-2c2014fb7409" />
+
+
+# Full wave rectifier with filter:
+
+<img width="765" height="604" alt="image" src="https://github.com/user-attachments/assets/8cdeaad1-216a-4238-9a32-fd4b155dd2aa" />
+
+
+# Full wave rectifier whitout filter:
+
+<img width="639" height="663" alt="image" src="https://github.com/user-attachments/assets/7d471bf6-8ce9-4011-81e8-096a97686d0e" />
+
+
+
+# WAVEFORM:
+# half wave rectifier:
+
+<img width="1099" height="634" alt="image" src="https://github.com/user-attachments/assets/8ba6e592-4b22-4cb9-bb53-389cf5839c4f" />
+
+# Full wave rectifier:
+
+<img width="1022" height="721" alt="image" src="https://github.com/user-attachments/assets/1dc25e32-9fd8-4100-b849-e4c5c6788c8c" />
+
+# Output:
+
+# HAlf wave rectifier with and without filter:
+
+<img width="1049" height="355" alt="image" src="https://github.com/user-attachments/assets/2bf4818a-94e0-4443-b4be-521e90014477" />
+
+
+
+# Full wave Rectifier with and without filter:
+
+
+<img width="621" height="250" alt="image" src="https://github.com/user-attachments/assets/63f95ae8-9131-4176-9029-a5012b4ca6e3" />
+
 
 # Halfwave rectifier without filter:
 
